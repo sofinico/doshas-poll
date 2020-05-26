@@ -4,4 +4,4 @@
 
 `npm start`
 
-go to <localhost:3001> :)
+go to <http://localhost:3001> :)
