@@ -1,0 +1,60 @@
+1,v,realizo actividades muy rápido
+2,v,no soy bueno memorizando cosas y acordándomelas luego
+3,v,soy entusiasta y enérgicx por naturaleza
+4,v,tengo un físico delgado, no gano peso fácilmente
+5,v,siempre aprendí, y aprendo, cosas nuevas rápidamente
+6,v,mi andar carácteristico cuando camino es ligero y rápido
+7,v,tiendo a tener dificultad para tomar decisiones
+8,v,tiendo a desarrollar gases y a constiparme fácilmente
+9,v,tiendo a tener las manos y los pies fríos
+10,v,me pongo ansiosx o preocupadx fácilmente
+11,v,no tolero el clima frío como la mayoría de la gente
+12,v,hablo rápido y mis amigues piensan que soy habladorx
+13,v,mi humor cambia fácilmente y de alguna manera emocional por naturaleza
+14,v,a menudo tengo dificultad para conciliar el sueño o para dormir profundamente
+15,v,mi piel tiende a estar muy seca, especialmente en invierno
+16,v,mi mente es muy activa, a veces inquieta, pero también muy imaginativa
+17,v,mis movimientos son rápidos y activos; mi energía tiende a venir en ráfagas
+18,v,soy fácilmente excitable
+19,v,tiendo a ser irregular en mis hábitos de alimentación y sueño
+20,v,aprendo rápido pero también me olvido rápido
+21,p,me considero muy eficiente
+22,p,en mis actividades, tiendo a ser extremamente preciso y ordenado
+23,p,soy de mente fuerte y tengo una personalidad contundente
+24,p,me siento incómodx o me siento fatigadx fácilmente cuando hace calor, más que otras personas
+25,p,tiendo a transpirar fácilmente
+26,p,aunque no siempre lo demuestre, me irrito o me enojo fácilmente
+27,p,si me salteo una comida o una comida se retrasa, me siento incómodx
+28,p,una o más de las siguientes características describe mi pelo: canas tempranas o calvice - delgado, fino, recto - rubio, pelirrojo o claro  
+29,p,tengo un apetito fuerte, y si quiero, puedo comer grandes cantidades
+30,p,muchas personas me consideran obstinadx/tercx
+31,p,soy muy regular en mis hábitos intestinales, sería más común para mí tener heces sueltas que estar constipadx
+32,p,me pongo impaciente fácilmente
+33,p,tiendo a ser perfeccionista en cada detalle
+34,p,me enojo bastante fácil, pero luego lo olvido rápidamente
+35,p,soy fanáticx de los alimentos fríos, como el helado o bebidas frías
+36,p,es más probable que sienta que una habitación es demasiado fría a que demasiado caliente
+37,p,no tolero las comidas que son muy calientes o muy picantes
+38,p,no soy tan tolerante al desacuerdo como debería serlo
+39,p,disfruto los desafios y cuando quiero algo, soy muy determinadx en mis esfuerzos para obternerlo
+40,p,tiendo a ser crítico de otras personas y también de mí mismx
+41,k,mi tendencia natural es hacer las cosas lentas y de una manera relajada
+42,k,gano peso más fácilmente que la mayoría de las personas y lo pierdo más lentamente
+43,k,tengo una disposición plácida y tranquila, no me altero fácilmente
+44,k,me puedo saltear comidas sin una significante incomodidad
+45,k,tengo tendencia al exceso de moco o flema, congestión crónica, asma o sinusitis
+46,k,tengo que dormir al menos ocho horas para estar cómodo al día siguiente
+47,k,duermo muy profundamente
+48,k,soy calmo por naturaleza y no me enojo fácilmente
+49,k,no aprendo tan rápido como otras peronas, pero tengo una excelente retención y buena memoria
+50,k,tengo tendencia a estar rechonchx, almaceno grasa fácilmente
+51,k,el clima frío y húmedo me molesta
+52,k,mi pelo es grueso, negro y ondulado
+53,k,tengo la piel lisa y suave con una tez algo pálida
+54,k,tengo un cuerpo grande y sólido
+55,k,las siguientes palabras me describen bien: serenx, dulce, cariñosx y perdonadorx
+56,k,tengo digestión lenta, lo que a veces me hace sentir pesadx después de una comida
+57,k,tengo una muy buena resistencia física, así como un buen nivel constante de energía
+58,k,generalmente camino con paso lento y medido
+59,k,tengo tendencia a dormir mucho, dificultad para despertarme y soy generalmente lentx para arrancar a la mañana
+60,k,tiendo a comer lentamente y soy lentx y metódicx en mis acciones en general

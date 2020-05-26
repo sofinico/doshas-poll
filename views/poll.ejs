@@ -1,0 +1,48 @@
+<%- include('includes/head.ejs') %>
+  <link rel="stylesheet" href="/css/forms.css"> 
+</head>
+
+<body>
+  <%- include('includes/navigation.ejs') %>
+  <main>
+    
+    <div class="container2">
+      <div class="box2">
+
+        <h1>test</h1>
+        <p>leer cada afirmación, y seleccionar del 0 al 6, qué tanto te representa o aplica a vos</p>
+        <p>
+          <ul style="list-style-type:none;">
+            <li>0: no me representa para nada</li>
+            <li>3: me representa un poco (aplica algunas veces)</li>
+            <li>6: me representa muy bien (aplica la mayoría de las veces)</li>
+          </ul>
+        </p> <br>
+
+        <form action="/poll/results-form" method="POST"> 
+          
+          <% for (q of questions) { %>
+            <div class="box3">
+              <p class="questions-title"><%= q.content %></p>
+              
+              <% for (let i = 0; i < 7; i++) { %>
+                <div class="box4">
+                  <input type="radio" name="<%= q.id %>" value="<%= i %>" id="<%= q.id %>-<%= i %>">
+                  <label for="<%= q.id %>-<%= i %>"><%= i %></label>  
+                </div>
+              <% } %>
+            
+            </div><br>
+          <% } %>
+          
+          <div class="button-center">
+            <button class="btn" type="submit">ENVIAR RESPUESTAS</button>
+          </div>
+        
+        </form>
+
+      </div>
+    </div>
+
+  </main>
+<%- include('includes/end.ejs') %>

@@ -1,0 +1,19 @@
+<%- include('includes/head.ejs') %>
+</head>
+
+<body>
+  <%- include('includes/navigation.ejs') %>
+  <main>
+    <div class="container1">
+      <div class="box1">
+
+        <h2>hola <%= currentUser.apodo %>, <br> estos fueron tus resultados:</h2>
+        <p>vata: <%= currentUser.parsedResults['v'] %></p>
+        <p>pitta: <%= currentUser.parsedResults['p'] %></p>
+        <p>kapha: <%= currentUser.parsedResults['k'] %></p>
+
+      </div>
+    </div>
+  </main>
+
+<%- include('includes/end.ejs') %>
